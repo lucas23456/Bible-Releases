@@ -22,8 +22,7 @@
 
 | Версия | Описание | Загрузка |
 | :--- | :--- | :--- |
-| **Установщик** | Стандартная установка с созданием ярлыка на рабочем столе | [**Скачать SolaScriptura-Setup.exe**](https://github.com/lucas23456/Bible-Releases/releases/latest/download/SolaScriptura-Setup-1.0.4.exe) |
-| **Портативная версия** | Не требует установки: запускается из любой папки или с флешки | [**Скачать Portable.exe**](https://github.com/lucas23456/Bible-Releases/releases/latest/download/Bible-Portable.exe) |
+| **Установщик** | Стандартная установка с созданием ярлыка на рабочем столе | [**Скачать SolaScriptura-Setup.exe**](https://github.com/lucas23456/Bible-Releases/releases/tag/v1.0.8) |
 
 > Все версии программы и история обновлений доступны в разделе **[всех выпусков (Releases)](https://github.com/lucas23456/Bible-Releases/releases)**.
 
